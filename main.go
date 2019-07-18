@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/clementi/mxcpu/cpu"
+	"github.com/clementi/mxcpu-go/cpu"
 )
 
 func main() {
